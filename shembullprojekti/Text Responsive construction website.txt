@@ -1,0 +1,165 @@
+========== HEADER ==========
+.nav__logo
+Construction Elezi
+
+.nav__link
+Home - RRETH NESHT - SHERBIMET - PROJEKTET - KONTAKTO
+
+
+========== HOME ==========
+.home__title
+ Siguria dhe besimi janë <br>
+ themelet e ndërtimeve tona.
+
+.home__description
+Ne kujdesemi për çdo detaj, nga dizajni fillestar deri 
+në mirëmbajtjen e vazhdueshme.
+
+.button
+Sherbimet tona
+.button__link
+Shiko Projektet
+
+.home__info-title .home__info-description
+10+
+Vite<br> Eksperience
+
+200
+Projekte  <br> te perfunduara
+
+
+========== ABOUT ==========
+.section__subtitle
+RRETH NESH
+
+.section__title
+ Ne japim shërbimin <br> më të mirë në ndërtim.
+
+.about__description
+Ne përpiqemi të sigurojmë profesionistët më të mirë <br>
+ për ta bërë projektin tuaj një kryevepër ndërtimi, <br>
+ diçka unike dhe të pakrahasueshme.
+
+.about__list-item span
+Punëtorë profesionistë
+Cilësi e garantuar
+Eksperiencë e gjerë
+Vlerësojmë projektin
+
+.button
+Shiko Projektet
+
+
+========== SERVICES ==========
+.section__subtitle
+Sherbimet Tona!
+
+.section__title
+Shërbime Ndërtimi <br> të Cilësisë së Lartë
+
+.services__description
+Ne sigurojmë një gamë të gjerë shërbimesh për ju,
+ duke ofruar siguri dhe besueshmëri në ndërtim.
+
+.button
+Kontakto 
+
+.services__title
+Punime të përgjithshme ndërtimi & Punime speciale ndërtimi
+Ndërtim infrastrukturor
+Punime hidroteknike & Punime mjedisore
+Impiante energjitike
+Struktura të parafabrikuara
+
+
+.services__card p
+1- Kompania ofron gërmime, ndërtim civil dhe industrial, si dhe rikonstruksion dhe 
+mirëmbajtje të ndërtesave.Gjithashtu kompania përfshin prishjen e ndërtesave, impiante 
+hidrosanitare, impiante ngritëse,rifinitura të muraturave dhe sinjalistika rrugore.
+2-Kompania ofron shërbime në ndërtimin e rrugëve, autostradave, hekurudhave, 
+aeroporteve dhe infrastrukturës nëntokësore.
+3-Kompania mundëson ndërtimin e digave, tuneleve, ujësjellësve, kanalizimeve dhe 
+veprave të tjera hidroteknike.Gjithashtu kompania përfshin punime për mbrojtjen e lumenjve, 
+sisteme kullimi dhe bonifikime,si dhe impiante për prodhimin e energjisë elektrike.
+4-Kompania ofron ndërtimin e nënstacioneve, kabinave transformatorësh dhe 
+linjave të tensionit të lartë dhe të mesëm.
+5- Kompania ka ekspertizë në ndërtimin e strukturave të parafabrikuara, 
+beton arme, struktura metalike dhe druri.
+
+
+
+========== PROJECTS ==========
+.section__subtitle
+Projektet
+
+.section__title
+Projektet e Realizuara <br>së Fundmi
+
+.projects__data span .projects__title .projects__data .projects__data p
+Punime Hidroteknike & Punime Ndertimi
+Hidrocentral
+25 Maj ,2022
+ Ndërtimi digave të reja për kontrollin e ujërave, modernizimin e rrjetit të ujësjellësve
+ për të siguruar furnizim të qëndrueshëm me ujë të pijshëm,dhe krijimin e sistemeve të reja
+ të kanalizimeve për mbrojtjen e mjedisit  në Shkoder.
+
+Punime Hidroizoluese
+Depo
+20 Shtator,2023
+ Përdorimi i shkumës poliuretani me spërkatje ofron një shtresë të vazhdueshme dhe 
+ të qëndrueshme hidroizoluese, duke eliminuar urat termike dhe duke parandaluar depërtimin e lagështirës, në Visok-Fier.
+                 
+Ndertim Deposh
+Depo
+15 Dhjetor,2024
+ Ndërtimi  depove me standarde të larta sigurie dhe mjedisore,do të rrisë 
+ kapacitetet e ruajtjes së naftës bruto, duke siguruar stabilitet dhe siguri në furnizimin me energji.
+               
+
+
+========== CONTACT ==========
+.section__subtitle
+KONTAKTO ME NE
+
+.section__title
+Le të Ndërtojmë Së Bashku
+
+.contact__title .contact__info
+Ne jemi këtu për ju
+Shqipëri - Durrës <br>
+Rruga Miqësia
+
+Na telefononi
++355 69 301 7073
+
+Na dërgoni një mesazh
+https://wa.me/+355693017073
+https://m.me/bedimcode
+https://www.instagram.com/construction_elezi/
+
+
+========== FOOTER ==========
+.footer__logo span
+Construct
+
+.footer__description
+Siguria dhe besimi janë <br> themelet e ndërtimeve tona.
+
+.footer__email
+Email: constructionelezi@yahoo.com
+
+.footer__title .footer__link .footer__info
+Company
+ RRETH NESH
+ SHERBIMET
+ PROJEKTET
+
+Information
+ Shqipëri - Durrës <br> Rruga Miqësia
+ 9AM-11PM
+
+Social Media
+https://www.facebook.com/
+https://www.instagram.com/construction_elezi/
+
+
